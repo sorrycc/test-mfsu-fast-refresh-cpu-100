@@ -6,7 +6,7 @@ import Dar from "../components/Dar";
 export default function Page() {
   return (
     <div>
-      <h1 className={styles.title}>Page index 2333443</h1>
+      <h1 className={styles.title}>Page index</h1>
       <Foo />
       <Dar />
     </div>
